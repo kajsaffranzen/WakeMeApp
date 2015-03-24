@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WakeMeApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_severity">SeverityActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_last">LastActivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_alarm_receiver">AlarmReceiver</string>
+    <string name="TheClock">Klockan är</string>
+    <string name="back">&lt;</string>
+    <string name="Next">Nästa</string>
+    <string name="easy">Lätt</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Svår</string>
+    <string name="Diffic">Hur svårväckt är du?</string>
+
+</resources>
